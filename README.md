@@ -8,13 +8,11 @@
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 🐍 GitHub Contribution Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deep007h/Deep007h/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deep007h/Deep007h/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Deep007h/Deep007h/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<div align="center">
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</div>
 
 ---
 
@@ -50,7 +48,7 @@
 ---
 
 <div align="center">
-<sub>⭐ Generated with <a href="https://github.com/Platane/snk">Platane/snk</a> contribution graph animation</sub>
+<sub>⭐ Automated with <a href="https://github.com/Platane/snk">Platane/snk</a> contribution graph animation</sub>
 </div>
 
 </div>
