@@ -111,7 +111,7 @@ val deep = Developer(
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[🚏 OmniRoute Pocket](https://github.com/Deep007h/OmniRoute-Android)** | Autonomous edge AI model router & gateway Android app with embedded Web Hub, 120+ AI providers & Cloudflare tunneling. | `Kotlin`, `Jetpack Compose`, `Coroutines`, `HTTP/SSE` |
-| **[📱 TeleDrive](https://github.com/Deep007h/TeleDrive)** | Unlimited Telegram-based cloud storage client for Android wrapped in a modern Google Photos UI experience. | `Flutter`, `Dart`, `Telegram API` |
+| **[🖼️ Telegram Gallery](https://github.com/Deep007h/telegram-gallery)** | Unlimited Telegram-based cloud storage & media gallery client for Android wrapped in a modern Google Photos UI experience. | `Flutter`, `Dart`, `Telegram API` |
 | **[🤖 AI4U Platform](https://github.com/Deep007h/AI4U)** | Intelligent multi-modal AI assistant platform for automated task completion and developer assistance. | `Python`, `FastAPI`, `OpenAI`, `LLMs` |
 | **[📡 LocalSend Custom](https://github.com/Deep007h/localsend)** | Cross-platform peer-to-peer local network secure file sharing suite with zero-configuration discovery. | `Flutter`, `Rust Interop`, `mDNS` |
 
