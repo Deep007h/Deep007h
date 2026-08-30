@@ -164,3 +164,5 @@ val deep = Developer(
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:1E263B,100:0B0E17&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+
+<!-- Profile Optimization Ref: 2026-v2 -->
