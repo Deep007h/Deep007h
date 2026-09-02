@@ -131,7 +131,7 @@ val deep = Developer(
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Deep007h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E17&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deep007h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E17&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com?user=Deep007h&theme=tokyonight&hide_border=true&background=0B0E17&ring=6366F1&fire=D95D39&currStreakLabel=6366F1" width="100%" alt="GitHub Streak Stats" />
@@ -141,7 +141,7 @@ val deep = Developer(
 
 <br />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Deep007h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E17&title_color=6366F1&text_color=F8FAFC" width="55%" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deep007h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E17&title_color=6366F1&text_color=F8FAFC" width="55%" alt="Top Languages" />
 
 </div>
 
