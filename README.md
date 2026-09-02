@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Deep007h">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=550&height=45&lines=AI+%26+Full-Stack+Engineer;Building+Autonomous+AI+Gateways+%26+Mobile+Apps;Flutter+%7C+Kotlin+%7C+Python+%7C+LLMs;Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=550&height=45&lines=AI+%26+Full-Stack+Engineer;Creator+of+DeepCode+%26+OmniRoute;Jetpack+Compose+%7C+Kotlin+%7C+Python+%7C+LLMs;Open+Source+Builder" alt="Typing SVG" />
 </a>
 
 <br />
@@ -32,24 +32,25 @@
 ```kotlin
 val deep = Developer(
     pronouns = "He/Him",
-    role = "AI & Full-Stack Engineer",
-    passions = listOf("LLM Routing", "Jetpack Compose", "Coroutines", "Flutter", "Edge AI"),
-    currentFocus = "Autonomous AI Gateways & Multi-Model Inference",
-    funFact = "Turning caffeine into Kotlin coroutines and high-speed Python pipelines."
+    role = "AI & Mobile Full-Stack Engineer",
+    passions = listOf("Agentic Loops", "Jetpack Compose", "Coroutines", "LLM Routing", "Edge AI"),
+    currentFocus = "Autonomous AI Developer Tools & Multi-Model Inference",
+    funFact = "Turning caffeine into Kotlin coroutines and high-speed developer workflows."
 )
 ```
 
-- 🔭 **Currently Building**: **[OmniRoute Pocket](https://github.com/Deep007h/OmniRoute-Android)** — Autonomous edge AI routing gateway for Android with 120+ provider catalog & Cloudflare tunneling.
-- 📱 **Mobile & AI**: Designing fluid Android apps with **Jetpack Compose** & **Flutter**, integrated with real-time LLM streaming.
+- 🔭 **Currently Building**: **[DeepCode](https://github.com/Deep007h/DeepCode)** — Autonomous AI coding assistant & agent environment for Android with terminal shell, Sora editor, multi-key failover & PDF studio.
+- 🚏 **Edge AI Routing**: **[OmniRoute Pocket](https://github.com/Deep007h/OmniRoute-Android)** — Autonomous edge AI routing gateway with embedded Web Hub & Cloudflare tunneling.
+- 📱 **Mobile & AI**: Designing fluid Android apps with **Jetpack Compose** & **Kotlin**, integrated with real-time LLM streaming.
 - 🧠 **Exploring**: Multi-Agent orchestration, reasoning token compression, and local private inference on mobile hardware.
-- 💬 **Ask Me About**: Kotlin, Python, OpenAI/Gemini/Claude SDKs, Flutter state management, or Docker.
+- 💬 **Ask Me About**: Kotlin, Jetpack Compose, Python, OpenAI/Gemini/Claude SDKs, or Android Architecture.
 
 ---
 
 ## 🐍 GitHub Contribution Activity
 
 <div align="center">
-  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" width="100%" />
 </div>
 
 ---
@@ -110,9 +111,9 @@ val deep = Developer(
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[💻 DeepCode Android](https://github.com/Deep007h/DeepCode)** | Autonomous developer AI coding assistant & agent app with terminal shell, Sora editor, multi-key rotation & PDF studio. | `Kotlin`, `Jetpack Compose`, `M3`, `Room` |
 | **[🚏 OmniRoute Pocket](https://github.com/Deep007h/OmniRoute-Android)** | Autonomous edge AI model router & gateway Android app with embedded Web Hub, 120+ AI providers & Cloudflare tunneling. | `Kotlin`, `Jetpack Compose`, `Coroutines`, `HTTP/SSE` |
 | **[🖼️ Telegram Gallery](https://github.com/Deep007h/telegram-gallery)** | Unlimited Telegram-based cloud storage & media gallery client for Android wrapped in a modern Google Photos UI experience. | `Flutter`, `Dart`, `Telegram API` |
-| **[🤖 AI4U Platform](https://github.com/Deep007h/AI4U)** | Intelligent multi-modal AI assistant platform for automated task completion and developer assistance. | `Python`, `FastAPI`, `OpenAI`, `LLMs` |
 | **[📡 LocalSend Custom](https://github.com/Deep007h/localsend)** | Cross-platform peer-to-peer local network secure file sharing suite with zero-configuration discovery. | `Flutter`, `Rust Interop`, `mDNS` |
 
 </div>
