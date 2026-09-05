@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Deep007h">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=550&height=45&lines=AI+%26+Full-Stack+Engineer;Creator+of+DeepCode+%26+OmniRoute;Jetpack+Compose+%7C+Kotlin+%7C+Python+%7C+LLMs;Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=580&height=45&lines=AI+%26+Full-Stack+Engineer;Creator+of+DeepCode+%26+OmniRoute+(Pocket);Jetpack+Compose+%7C+Kotlin+%7C+Python+%7C+LLMs;Open+Source+Builder" alt="Typing SVG" />
 </a>
 
 <br />
