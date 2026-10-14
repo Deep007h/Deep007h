@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Deep007h">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=680&height=50&lines=AI+%26+Mobile+Systems+Architect+%E2%9A%A1;Creator+of+DeepCode+(v2.0.2+Autonomous+Coding+Agent);Edge+AI+Architect+%E2%80%A2+OmniRoute+Pocket+(120%2B+Providers);Jetpack+Compose+%E2%80%A2+Kotlin+Coroutines+%E2%80%A2+PRoot;Multi-Agent+Orchestration+%E2%80%A2+Hermes+%E2%80%A2+Zen+AI;Turning+caffeine+into+autonomous+agent+loops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=680&height=50&lines=AI+%26+Mobile+Systems+Architect+%E2%9A%A1;Creator+of+DeepCode+(v2.0.2+Autonomous+Coding+Agent);Edge+AI+Architect+%E2%80%A2+Pocket+Router+(120%2B+Providers);Jetpack+Compose+%E2%80%A2+Kotlin+Coroutines+%E2%80%A2+PRoot;Multi-Agent+Orchestration+%E2%80%A2+Hermes+%E2%80%A2+Zen+AI;Turning+caffeine+into+autonomous+agent+loops" alt="Typing SVG" />
 </a>
 
 <br />
@@ -44,14 +44,14 @@ val deep = Developer(
     handle = "@Deep007h",
     role = "AI Systems & Mobile Agent Architect",
     coreStack = setOf("Kotlin", "Jetpack Compose", "Python", "PRoot Subsystems", "C++"),
-    agenticEcosystem = setOf("DeepCode", "OmniRoute Pocket", "Hermes", "Antigravity", "OpenCode Zen"),
+    agenticEcosystem = setOf("DeepCode", "Pocket Router", "Hermes", "Antigravity", "OpenCode Zen"),
     currentMission = "Building autonomous, desktop-grade AI developer tools native to Android",
     motto = "Why execute in the cloud when your phone can run an entire autonomous agent stack?"
 )
 ```
 
 - 🚀 **Flagship Project**: **[DeepCode (v2.0.2)](https://github.com/Deep007h/DeepCode)** — Autonomous AI coding assistant & agent environment on Android with Apple-style floating island glass dock, PRoot subsystem terminal, Sora editor, Telegram bridge & PDF studio. ([Download APK](https://github.com/Deep007h/DeepCode/releases/download/v2.0.2/DeepCode-v2.0.2.apk))
-- 🚏 **Edge AI Routing**: **[OmniRoute Pocket](https://github.com/Deep007h/OmniRoute-Android)** — Autonomous edge AI gateway with embedded Web Hub, 120+ AI providers & Cloudflare tunneling.
+- 🚏 **Edge AI Routing**: **[Pocket Router](https://github.com/Deep007h/pocket_router)** — Autonomous edge AI gateway with embedded Web Hub, 120+ AI providers & Cloudflare tunneling.
 - 📱 **Mobile UI Engineering**: Designing fluid, tactile Android applications with **Jetpack Compose**, specular bevel shaders, spring haptics & real-time SSE streaming.
 - 🧠 **Research & Exploration**: Multi-Agent orchestration loops, reasoning token compression, and local private model inference on edge hardware.
 - 💬 **Ask Me About**: Kotlin Coroutines & Flow, Android Internals, Jetpack Compose, Python, LLM Wire Protocols, or Linux PRoot Subsystems.
@@ -132,7 +132,7 @@ val deep = Developer(
 | Project | Description | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :---: |
 | **[💻 DeepCode Android](https://github.com/Deep007h/DeepCode)** | Flagship autonomous developer AI coding assistant & agent app with Apple-style floating dock, Hermes PRoot agent, Sora editor, terminal shell, and PDF studio. | `Kotlin`, `Jetpack Compose`, `M3`, `PRoot`, `Room` | [![Release](https://img.shields.io/badge/Release-v2.0.2-22C55E?style=flat-square)](https://github.com/Deep007h/DeepCode/releases/tag/v2.0.2) |
-| **[🚏 OmniRoute Pocket](https://github.com/Deep007h/OmniRoute-Android)** | Autonomous edge AI model router & gateway Android app with embedded Web Hub, 120+ AI providers & Cloudflare tunneling. | `Kotlin`, `Jetpack Compose`, `Coroutines`, `HTTP/SSE` | [![Repo](https://img.shields.io/badge/GitHub-OmniRoute-blue?style=flat-square)](https://github.com/Deep007h/OmniRoute-Android) |
+| **[🚏 Pocket Router](https://github.com/Deep007h/pocket_router)** | Autonomous edge AI model router & gateway Android app with embedded Web Hub, 120+ AI providers & Cloudflare tunneling. | `Kotlin`, `Jetpack Compose`, `Coroutines`, `HTTP/SSE` | [![Repo](https://img.shields.io/badge/GitHub-pocket__router-blue?style=flat-square)](https://github.com/Deep007h/pocket_router) |
 | **[🖼️ Telegram Gallery](https://github.com/Deep007h/telegram-gallery)** | Unlimited Telegram-based cloud storage & media gallery client for Android wrapped in a modern Google Photos UI experience. | `Flutter`, `Dart`, `Telegram API` | [![Repo](https://img.shields.io/badge/GitHub-Gallery-2CA5E0?style=flat-square)](https://github.com/Deep007h/telegram-gallery) |
 | **[🎵 BitChord](https://github.com/Deep007h/BitChord)** | High-performance, lightweight Android music & audio player with real-time waveform visualizers and playlist management. | `Kotlin`, `ExoPlayer`, `Jetpack Compose` | [![Repo](https://img.shields.io/badge/GitHub-BitChord-purple?style=flat-square)](https://github.com/Deep007h/BitChord) |
 | **[📡 LocalSend Custom](https://github.com/Deep007h/localsend)** | Cross-platform peer-to-peer local network secure file sharing suite with zero-configuration discovery. | `Flutter`, `Rust Interop`, `mDNS` | [![Repo](https://img.shields.io/badge/GitHub-LocalSend-green?style=flat-square)](https://github.com/Deep007h/localsend) |
