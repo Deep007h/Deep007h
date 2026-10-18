@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,25:1E263B,50:6366F1,75:8B5CF6,100:0B0E17&height=240&section=header&text=Harshdeep%20Singh%20(Deep)%20🚀&fontSize=40&animation=fadeIn&fontColor=ffffff&desc=AI%20Systems%20%7C%20Edge%20Intelligence%20%7C%20Mobile%20Agent%20Architect&descFontSize=20&descAlignY=68" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,25:1E1E2E,50:6366F1,75:8B5CF6,100:06B6D4&height=250&section=header&text=Harshdeep%20Singh%20(Deep)%20%E2%9A%A1&fontSize=38&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Mobile%20Systems%20Architect%20%7C%20Edge%20AI%20%7C%20Android%20%26%20Flutter%20Engineer&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Deep007h">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=680&height=50&lines=AI+%26+Mobile+Systems+Architect+%E2%9A%A1;Creator+of+DeepCode+(v2.0.2+Autonomous+Coding+Agent);Edge+AI+Architect+%E2%80%A2+Pocket+Router+(120%2B+Providers);Jetpack+Compose+%E2%80%A2+Kotlin+Coroutines+%E2%80%A2+PRoot;Multi-Agent+Orchestration+%E2%80%A2+Hermes+%E2%80%A2+Zen+AI;Turning+caffeine+into+autonomous+agent+loops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=50&lines=AI+%26+Mobile+Systems+Architect+%E2%9A%A1;Creator+of+DEEN+%E2%80%A2+Ad-Free+Anime+Streaming;Creator+of+DeepCode+(v2.0.2+Autonomous+Coding+Agent);Fluid+Android+Experiences+with+Jetpack+Compose+%26+Flutter;Edge+AI+%E2%80%A2+Local+PRoot+Linux+Subsystems+%E2%80%A2+LLM+Pipelines;Crafting+Luxury+Interfaces+%26+High-Performance+Engines" alt="Typing SVG" />
 </a>
 
 <br />
@@ -13,12 +13,15 @@
 <!-- QUICK STATS & BADGES -->
 <p align="center">
   <a href="https://github.com/Deep007h">
-    <img src="https://counterapi.com/counter.svg?key=Deep007h&color=6366F1&style=for-the-badge&label=PROFILE%20VIEWS&startNumber=245" alt="Profile Views" />
+    <img src="https://counterapi.com/counter.svg?key=Deep007h&color=6366F1&style=for-the-badge&label=PROFILE%20VIEWS&startNumber=310" alt="Profile Views" />
   </a>
   <a href="https://github.com/Deep007h?tab=followers">
     <img src="https://img.shields.io/github/followers/Deep007h?label=FOLLOWERS&style=for-the-badge&logo=github&color=3B82F6&logoColor=white" alt="Followers" />
   </a>
-  <a href="https://github.com/Deep007h/DeepCode/releases/tag/v2.0.2">
+  <a href="https://github.com/Deep007h/DEEN">
+    <img src="https://img.shields.io/badge/DEEN-ANIME_STREAM-E50914?style=for-the-badge&logo=youtube&logoColor=white" alt="DEEN Anime Streaming" />
+  </a>
+  <a href="https://github.com/Deep007h/DeepCode">
     <img src="https://img.shields.io/badge/DEEPCODE-v2.0.2_RELEASED-22C55E?style=for-the-badge&logo=android&logoColor=white" alt="DeepCode v2.0.2" />
   </a>
   <a href="https://twitter.com/Deep007h" target="_blank">
@@ -42,19 +45,20 @@
 val deep = Developer(
     name = "Harshdeep Singh",
     handle = "@Deep007h",
-    role = "AI Systems & Mobile Agent Architect",
-    coreStack = setOf("Kotlin", "Jetpack Compose", "Python", "PRoot Subsystems", "C++"),
-    agenticEcosystem = setOf("DeepCode", "Pocket Router", "Hermes", "Antigravity", "OpenCode Zen"),
-    currentMission = "Building autonomous, desktop-grade AI developer tools native to Android",
+    role = "AI Systems & Mobile Software Engineer",
+    coreStack = setOf("Kotlin", "Jetpack Compose", "Flutter / Dart", "Python", "PRoot Subsystems", "C++"),
+    flagshipEcosystem = setOf("DEEN", "DeepCode", "Telegram Gallery", "BitChord"),
+    currentMission = "Engineering autonomous, desktop-grade AI developer tools & luxury consumer mobile engines",
     motto = "Why execute in the cloud when your phone can run an entire autonomous agent stack?"
 )
 ```
 
-- 🚀 **Flagship Project**: **[DeepCode (v2.0.2)](https://github.com/Deep007h/DeepCode)** — Autonomous AI coding assistant & agent environment on Android with Apple-style floating island glass dock, PRoot subsystem terminal, Sora editor, Telegram bridge & PDF studio. ([Download APK](https://github.com/Deep007h/DeepCode/releases/download/v2.0.2/DeepCode-v2.0.2.apk))
-- 🚏 **Edge AI Routing**: **[Pocket Router](https://github.com/Deep007h/pocket_router)** — Autonomous edge AI gateway with embedded Web Hub, 120+ AI providers & Cloudflare tunneling.
-- 📱 **Mobile UI Engineering**: Designing fluid, tactile Android applications with **Jetpack Compose**, specular bevel shaders, spring haptics & real-time SSE streaming.
-- 🧠 **Research & Exploration**: Multi-Agent orchestration loops, reasoning token compression, and local private model inference on edge hardware.
-- 💬 **Ask Me About**: Kotlin Coroutines & Flow, Android Internals, Jetpack Compose, Python, LLM Wire Protocols, or Linux PRoot Subsystems.
+- 🎬 **Consumer Streaming Engine**: **[DEEN](https://github.com/Deep007h/DEEN)** — Modern, 100% ad-free anime streaming application with obsidian luxury UI, multi-track audio/subs, and cinema-grade gesture player controls. ([Latest Release](https://github.com/Deep007h/DEEN/releases/latest))
+- 🚀 **Flagship AI Agent**: **[DeepCode (v2.0.2)](https://github.com/Deep007h/DeepCode)** — Autonomous AI coding assistant & agent environment on Android with Apple-style floating island glass dock, PRoot subsystem terminal, Sora editor, Telegram bridge & PDF studio. ([Download APK](https://github.com/Deep007h/DeepCode/releases/download/v2.0.2/DeepCode-v2.0.2.apk))
+- 🖼️ **Media Cloud Architecture**: **[Telegram Gallery](https://github.com/Deep007h/telegram-gallery)** — Unlimited Telegram Cloud Storage Client for Android wrapped in an ultra-smooth Google Photos experience.
+- 📱 **Mobile UI Engineering**: Designing fluid, tactile applications with **Jetpack Compose** and **Flutter**, specular glass shaders, spring haptics & real-time SSE streaming.
+- 🧠 **Edge AI & Agentic Loops**: Multi-agent orchestration, on-device reasoning token compression, and local private model inference on mobile hardware.
+- 💬 **Ask Me About**: Kotlin Coroutines & Flow, Android Internals, Jetpack Compose, Flutter Media Pipelines, LLM Wire Protocols, or Linux PRoot Subsystems.
 
 ---
 
@@ -74,11 +78,18 @@ val deep = Developer(
 
 <div align="center">
 
+<!-- SKILL ICONS RIBBON -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,python,cpp,rust,ts,js,linux,bash,docker,git,githubactions,fastapi,react,sqlite,firebase,postgres&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
+
 ### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -92,6 +103,7 @@ val deep = Developer(
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Android_14--16-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" />
   <img src="https://img.shields.io/badge/Material_3-795548?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -117,7 +129,7 @@ val deep = Developer(
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/SQLite_FTS4-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
@@ -129,13 +141,45 @@ val deep = Developer(
 
 <div align="center">
 
+<!-- PINNED REPO CARDS -->
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Deep007h/DEEN">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Deep007h&repo=DEEN&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="DEEN Repo Card" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Deep007h/DeepCode">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Deep007h&repo=DeepCode&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="DeepCode Repo Card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Deep007h/telegram-gallery">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Deep007h&repo=telegram-gallery&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="Telegram Gallery Repo Card" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Deep007h/BitChord">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Deep007h&repo=BitChord&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="BitChord Repo Card" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- PROJECT SHOWCASE TABLE -->
 | Project | Description | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :---: |
+| **[🎬 DEEN](https://github.com/Deep007h/DEEN)** | The ultimate 100% ad-free anime streaming client for Android with luxury obsidian aesthetic, fluid gesture-driven player & multi-track audio. | `Flutter`, `media_kit`, `Riverpod`, `Android` | [![Release](https://img.shields.io/badge/Release-v1.0.0-E50914?style=flat-square)](https://github.com/Deep007h/DEEN/releases/latest) |
 | **[💻 DeepCode Android](https://github.com/Deep007h/DeepCode)** | Flagship autonomous developer AI coding assistant & agent app with Apple-style floating dock, Hermes PRoot agent, Sora editor, terminal shell, and PDF studio. | `Kotlin`, `Jetpack Compose`, `M3`, `PRoot`, `Room` | [![Release](https://img.shields.io/badge/Release-v2.0.2-22C55E?style=flat-square)](https://github.com/Deep007h/DeepCode/releases/tag/v2.0.2) |
-| **[🚏 Pocket Router](https://github.com/Deep007h/pocket_router)** | Autonomous edge AI model router & gateway Android app with embedded Web Hub, 120+ AI providers & Cloudflare tunneling. | `Kotlin`, `Jetpack Compose`, `Coroutines`, `HTTP/SSE` | [![Repo](https://img.shields.io/badge/GitHub-pocket__router-blue?style=flat-square)](https://github.com/Deep007h/pocket_router) |
-| **[🖼️ Telegram Gallery](https://github.com/Deep007h/telegram-gallery)** | Unlimited Telegram-based cloud storage & media gallery client for Android wrapped in a modern Google Photos UI experience. | `Flutter`, `Dart`, `Telegram API` | [![Repo](https://img.shields.io/badge/GitHub-Gallery-2CA5E0?style=flat-square)](https://github.com/Deep007h/telegram-gallery) |
-| **[🎵 BitChord](https://github.com/Deep007h/BitChord)** | High-performance, lightweight Android music & audio player with real-time waveform visualizers and playlist management. | `Kotlin`, `ExoPlayer`, `Jetpack Compose` | [![Repo](https://img.shields.io/badge/GitHub-BitChord-purple?style=flat-square)](https://github.com/Deep007h/BitChord) |
-| **[📡 LocalSend Custom](https://github.com/Deep007h/localsend)** | Cross-platform peer-to-peer local network secure file sharing suite with zero-configuration discovery. | `Flutter`, `Rust Interop`, `mDNS` | [![Repo](https://img.shields.io/badge/GitHub-LocalSend-green?style=flat-square)](https://github.com/Deep007h/localsend) |
+| **[🖼️ Telegram Gallery](https://github.com/Deep007h/telegram-gallery)** | Unlimited Telegram-based cloud storage & media gallery client for Android wrapped in a modern Google Photos UI experience. | `Kotlin`, `Jetpack Compose`, `Telegram API` | [![Stars](https://img.shields.io/github/stars/Deep007h/telegram-gallery?style=flat-square&color=2CA5E0)](https://github.com/Deep007h/telegram-gallery) |
+| **[🎵 BitChord](https://github.com/Deep007h/BitChord)** | High-performance, lightweight Android YouTube music & audio client with Apple Music aesthetics and waveform visualizers. | `Kotlin`, `ExoPlayer`, `Jetpack Compose` | [![Repo](https://img.shields.io/badge/GitHub-BitChord-purple?style=flat-square)](https://github.com/Deep007h/BitChord) |
+| **[🛠️ FormatForge](https://github.com/Deep007h/FormatForge)** | Windows-style portable drive formatting desktop application for Linux built with modern Qt6 and C++. | `C++`, `Qt6`, `Linux Systems` | [![Repo](https://img.shields.io/badge/GitHub-FormatForge-orange?style=flat-square)](https://github.com/Deep007h/FormatForge) |
+| **[📡 LocalSend](https://github.com/Deep007h/localsend)** | Cross-platform peer-to-peer local network secure file sharing suite with zero-configuration discovery. | `Flutter`, `Rust Interop`, `mDNS` | [![Repo](https://img.shields.io/badge/GitHub-LocalSend-green?style=flat-square)](https://github.com/Deep007h/localsend) |
 
 </div>
 
@@ -148,17 +192,17 @@ val deep = Developer(
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deep007h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E17&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Deep007h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=Deep007h&theme=tokyonight&hide_border=true&background=0B0E17&ring=6366F1&fire=D95D39&currStreakLabel=6366F1" width="100%" alt="GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com?user=Deep007h&theme=tokyonight&hide_border=true&background=0B0E14&ring=6366F1&fire=D95D39&currStreakLabel=6366F1" width="100%" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
 
 <br />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deep007h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E17&title_color=6366F1&text_color=F8FAFC" width="55%" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deep007h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&text_color=F8FAFC" width="55%" alt="Top Languages" />
 
 </div>
 
@@ -181,13 +225,13 @@ val deep = Developer(
 </a>
 &nbsp;
 <a href="mailto:2320406.aiml.coe@cgc.edu.in">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <br /><br />
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,25:8B5CF6,50:3B82F6,100:0B0E17&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,25:8B5CF6,50:3B82F6,100:0B0E14&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
 
