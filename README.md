@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,25:1E1E2E,50:6366F1,75:8B5CF6,100:06B6D4&height=250&section=header&text=Harshdeep%20Singh%20(Deep)%20%E2%9A%A1&fontSize=38&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Mobile%20Systems%20Architect%20%7C%20Edge%20AI%20%7C%20Android%20%26%20Flutter%20Engineer&descFontSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,25:1E1E2E,50:6366F1,75:8B5CF6,100:06B6D4&height=250&section=header&text=Harshdeep%20Singh%20(Deep)%20%F0%9F%9A%80&fontSize=38&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Systems%20%7C%20Edge%20Intelligence%20%7C%20Android%20and%20Flutter%20Architect&descFontSize=18&descAlignY=64" width="100%" alt="Header Banner" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Deep007h">
@@ -13,7 +13,7 @@
 <!-- QUICK STATS & BADGES -->
 <p align="center">
   <a href="https://github.com/Deep007h">
-    <img src="https://counterapi.com/counter.svg?key=Deep007h&color=6366F1&style=for-the-badge&label=PROFILE%20VIEWS&startNumber=310" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Deep007h&label=PROFILE+VIEWS&style=for-the-badge&color=6366f1" alt="Profile Views" />
   </a>
   <a href="https://github.com/Deep007h?tab=followers">
     <img src="https://img.shields.io/github/followers/Deep007h?label=FOLLOWERS&style=for-the-badge&logo=github&color=3B82F6&logoColor=white" alt="Followers" />
@@ -141,37 +141,6 @@ val deep = Developer(
 
 <div align="center">
 
-<!-- PINNED REPO CARDS -->
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Deep007h/DEEN">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Deep007h&repo=DEEN&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="DEEN Repo Card" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Deep007h/DeepCode">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Deep007h&repo=DeepCode&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="DeepCode Repo Card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Deep007h/telegram-gallery">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Deep007h&repo=telegram-gallery&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="Telegram Gallery Repo Card" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Deep007h/BitChord">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Deep007h&repo=BitChord&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&icon_color=818CF8&text_color=F8FAFC" width="100%" alt="BitChord Repo Card" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- PROJECT SHOWCASE TABLE -->
 | Project | Description | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :---: |
 | **[🎬 DEEN](https://github.com/Deep007h/DEEN)** | The ultimate 100% ad-free anime streaming client for Android with luxury obsidian aesthetic, fluid gesture-driven player & multi-track audio. | `Flutter`, `media_kit`, `Riverpod`, `Android` | [![Release](https://img.shields.io/badge/Release-v1.0.0-E50914?style=flat-square)](https://github.com/Deep007h/DEEN/releases/latest) |
@@ -202,7 +171,9 @@ val deep = Developer(
 
 <br />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deep007h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&text_color=F8FAFC" width="55%" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Deep007h&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E14&title_color=6366F1&text_color=F8FAFC" alt="Top Languages" />
+</p>
 
 </div>
 
@@ -225,13 +196,13 @@ val deep = Developer(
 </a>
 &nbsp;
 <a href="mailto:2320406.aiml.coe@cgc.edu.in">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br /><br />
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,25:8B5CF6,50:3B82F6,100:0B0E14&height=120&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,25:8B5CF6,50:06B6D4,100:0B0E14&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
 
