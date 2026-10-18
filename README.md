@@ -13,7 +13,7 @@
 <!-- QUICK STATS & BADGES -->
 <p align="center">
   <a href="https://github.com/Deep007h">
-    <img src="https://komarev.com/ghpvc/?username=Deep007h&label=PROFILE+VIEWS&style=for-the-badge&color=6366f1" alt="Profile Views" />
+    <img src="https://counterapi.com/counter.svg?key=Deep007h&color=6366F1&style=for-the-badge&label=PROFILE%20VIEWS&startNumber=310" alt="Profile Views" />
   </a>
   <a href="https://github.com/Deep007h?tab=followers">
     <img src="https://img.shields.io/github/followers/Deep007h?label=FOLLOWERS&style=for-the-badge&logo=github&color=3B82F6&logoColor=white" alt="Followers" />
