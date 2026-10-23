@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Deep007h">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=50&lines=AI+%26+Mobile+Systems+Architect+%E2%9A%A1;Creator+of+DEEN+%E2%80%A2+Ad-Free+Anime+Streaming;Creator+of+DeepCode+(v2.0.2+Autonomous+Coding+Agent);Fluid+Android+Experiences+with+Jetpack+Compose+%26+Flutter;Edge+AI+%E2%80%A2+Local+PRoot+Linux+Subsystems+%E2%80%A2+LLM+Pipelines;Crafting+Luxury+Interfaces+%26+High-Performance+Engines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=50&lines=AI+%26+Mobile+Systems+Architect+%E2%9A%A1;Creator+of+DEEN+%E2%80%A2+Anime+Streaming+Platform;Creator+of+DeepCode+(v2.0.2+Autonomous+Coding+Agent);Fluid+Android+Experiences+with+Jetpack+Compose+%26+Flutter;Edge+AI+%E2%80%A2+Local+PRoot+Linux+Subsystems+%E2%80%A2+LLM+Pipelines;Crafting+Luxury+Interfaces+%26+High-Performance+Engines" alt="Typing SVG" />
 </a>
 
 <br />
@@ -13,7 +13,7 @@
 <!-- QUICK STATS & BADGES -->
 <p align="center">
   <a href="https://github.com/Deep007h">
-    <img src="https://counterapi.com/counter.svg?key=Deep007h&color=6366F1&style=for-the-badge&label=PROFILE%20VIEWS&startNumber=310" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Deep007h&color=6366F1&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />
   </a>
   <a href="https://github.com/Deep007h?tab=followers">
     <img src="https://img.shields.io/github/followers/Deep007h?label=FOLLOWERS&style=for-the-badge&logo=github&color=3B82F6&logoColor=white" alt="Followers" />
@@ -47,13 +47,13 @@ val deep = Developer(
     handle = "@Deep007h",
     role = "AI Systems & Mobile Software Engineer",
     coreStack = setOf("Kotlin", "Jetpack Compose", "Flutter / Dart", "Python", "PRoot Subsystems", "C++"),
-    flagshipEcosystem = setOf("DEEN", "DeepCode", "Telegram Gallery", "BitChord"),
+    flagshipEcosystem = setOf("DEEN", "DeepCode", "Telegram Gallery", "AI Trader Agent"),
     currentMission = "Engineering autonomous, desktop-grade AI developer tools & luxury consumer mobile engines",
     motto = "Why execute in the cloud when your phone can run an entire autonomous agent stack?"
 )
 ```
 
-- 🎬 **Consumer Streaming Engine**: **[DEEN](https://github.com/Deep007h/DEEN)** — Modern, 100% ad-free anime streaming application with obsidian luxury UI, multi-track audio/subs, and cinema-grade gesture player controls. ([Latest Release](https://github.com/Deep007h/DEEN/releases/latest))
+- 🎬 **Consumer Streaming Engine**: **[DEEN](https://github.com/Deep007h/DEEN)** — Modern anime streaming application with minimal non-intrusive ads, obsidian luxury UI, multi-track audio/subs, and cinema-grade gesture player controls. ([Latest Release](https://github.com/Deep007h/DEEN/releases/latest))
 - 🚀 **Flagship AI Agent**: **[DeepCode (v2.0.2)](https://github.com/Deep007h/DeepCode)** — Autonomous AI coding assistant & agent environment on Android with Apple-style floating island glass dock, PRoot subsystem terminal, Sora editor, Telegram bridge & PDF studio. ([Download APK](https://github.com/Deep007h/DeepCode/releases/download/v2.0.2/DeepCode-v2.0.2.apk))
 - 🖼️ **Media Cloud Architecture**: **[Telegram Gallery](https://github.com/Deep007h/telegram-gallery)** — Unlimited Telegram Cloud Storage Client for Android wrapped in an ultra-smooth Google Photos experience.
 - 📱 **Mobile UI Engineering**: Designing fluid, tactile applications with **Jetpack Compose** and **Flutter**, specular glass shaders, spring haptics & real-time SSE streaming.
@@ -143,12 +143,12 @@ val deep = Developer(
 
 | Project | Description | Tech Stack | Status / Link |
 | :--- | :--- | :--- | :---: |
-| **[🎬 DEEN](https://github.com/Deep007h/DEEN)** | The ultimate 100% ad-free anime streaming client for Android with luxury obsidian aesthetic, fluid gesture-driven player & multi-track audio. | `Flutter`, `media_kit`, `Riverpod`, `Android` | [![Release](https://img.shields.io/badge/Release-v1.0.0-E50914?style=flat-square)](https://github.com/Deep007h/DEEN/releases/latest) |
+| **[🎬 DEEN](https://github.com/Deep007h/DEEN)** | Modern anime streaming client for Android with luxury obsidian aesthetic, minimal ads, fluid gesture player & multi-track audio. | `Flutter`, `media_kit`, `Riverpod`, `Android` | [![Release](https://img.shields.io/badge/Release-v1-E50914?style=flat-square)](https://github.com/Deep007h/DEEN/releases/latest) |
 | **[💻 DeepCode Android](https://github.com/Deep007h/DeepCode)** | Flagship autonomous developer AI coding assistant & agent app with Apple-style floating dock, Hermes PRoot agent, Sora editor, terminal shell, and PDF studio. | `Kotlin`, `Jetpack Compose`, `M3`, `PRoot`, `Room` | [![Release](https://img.shields.io/badge/Release-v2.0.2-22C55E?style=flat-square)](https://github.com/Deep007h/DeepCode/releases/tag/v2.0.2) |
 | **[🖼️ Telegram Gallery](https://github.com/Deep007h/telegram-gallery)** | Unlimited Telegram-based cloud storage & media gallery client for Android wrapped in a modern Google Photos UI experience. | `Kotlin`, `Jetpack Compose`, `Telegram API` | [![Stars](https://img.shields.io/github/stars/Deep007h/telegram-gallery?style=flat-square&color=2CA5E0)](https://github.com/Deep007h/telegram-gallery) |
-| **[🎵 BitChord](https://github.com/Deep007h/BitChord)** | High-performance, lightweight Android YouTube music & audio client with Apple Music aesthetics and waveform visualizers. | `Kotlin`, `ExoPlayer`, `Jetpack Compose` | [![Repo](https://img.shields.io/badge/GitHub-BitChord-purple?style=flat-square)](https://github.com/Deep007h/BitChord) |
+| **[📈 AI Trader Agent](https://github.com/Deep007h/ai-trader-agent)** | Agentic AI trading cockpit with multi-LLM routing, Binance execution, autonomous sub-agents & guardrails. | `React`, `TailwindCSS`, `LLM Agents` | [![Repo](https://img.shields.io/badge/GitHub-AI_Trader_Agent-purple?style=flat-square)](https://github.com/Deep007h/ai-trader-agent) |
 | **[🛠️ FormatForge](https://github.com/Deep007h/FormatForge)** | Windows-style portable drive formatting desktop application for Linux built with modern Qt6 and C++. | `C++`, `Qt6`, `Linux Systems` | [![Repo](https://img.shields.io/badge/GitHub-FormatForge-orange?style=flat-square)](https://github.com/Deep007h/FormatForge) |
-| **[📡 LocalSend](https://github.com/Deep007h/localsend)** | Cross-platform peer-to-peer local network secure file sharing suite with zero-configuration discovery. | `Flutter`, `Rust Interop`, `mDNS` | [![Repo](https://img.shields.io/badge/GitHub-LocalSend-green?style=flat-square)](https://github.com/Deep007h/localsend) |
+| **[🧠 LocalMind](https://github.com/Deep007h/localmind)** | Modern self-hosted privacy-first AI assistant and LLM intelligence platform. | `Python`, `FastAPI`, `AI Systems` | [![Repo](https://img.shields.io/badge/GitHub-LocalMind-green?style=flat-square)](https://github.com/Deep007h/localmind) |
 
 </div>
 
